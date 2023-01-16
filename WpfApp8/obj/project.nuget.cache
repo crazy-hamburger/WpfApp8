@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1+MDDRxVnNz1DTkfu2H3K3X9zslD70EkwUR4kkkKAvftmA/hvcd8X4rb4QSHKsTCU3esOWhe/v5e162jt1KQOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivaro\\source\\repos\\WpfApp8\\WpfApp8\\WpfApp8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivaro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
